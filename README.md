@@ -1,6 +1,3 @@
-# Vehicle-part-detection-Yolov8n
-
-Here's an example of a README.md file that explains the code snippet you provided. It assumes that you're working on a YOLOv8-based object detection project in Google Colab, with custom training and prediction processes, and accessing files stored in Google Drive.
 
 # YOLOv8 Object Detection Project
 
