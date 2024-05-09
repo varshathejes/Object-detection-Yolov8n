@@ -1,1 +1,1 @@
-# Object-detection-Yolov8n
+# Vehicle-part-detection-Yolov8n
